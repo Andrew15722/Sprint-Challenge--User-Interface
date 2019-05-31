@@ -79,7 +79,7 @@ p {
     margin: 0 auto;
 }
 
-.nav-foot {
+.nav-head {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -87,13 +87,13 @@ p {
     margin-top: 20px;
 }
 
-.nav-foot a {
+.nav-head a {
     color: black;
     letter-spacing: -1px;
     padding: 4px 18px;
 }
 
-.nav-foot a:hover {
+.nav-head a:hover {
     border: 1px solid black;
 }
 
