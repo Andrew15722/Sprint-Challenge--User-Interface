@@ -70,6 +70,14 @@ a:focus {
     outline: none;
 }
 
+button {
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
 p {
     line-height: 1.4;
 }
